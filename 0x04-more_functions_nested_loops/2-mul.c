@@ -13,7 +13,5 @@ int mul(int a, int b)
 	product = a * b;
 	return (product);
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
+
 
